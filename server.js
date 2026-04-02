@@ -7,9 +7,10 @@ const PORT = process.env.PORT || 5000;
 // testing the model
 // const testEmployee = async () => {
 //   const emp = await employee.create({
-//     firstName: "Reigns",
+//     firstName: "Regns",
 //     lastName: "Tony",
-//     email: "reigns@test.com",
+//     email: "skashdsjsvdbxvdbvsbd@test.com",
+//     phone:"0757568845",
 //     department: "Finance",
 //     salary: 45000,
 //     hireDate: "2015-01-04"
